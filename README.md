@@ -1,4 +1,4 @@
-# Facebook Comment API By Koja
+# Facebook Comment API By KITTU
 
 ## Overview
 
